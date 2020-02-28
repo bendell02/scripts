@@ -13,3 +13,6 @@ create readme.txt from a template file
 ## 20180913_rename_files_batch.py
 rename files in a format "20180913_basename01.jpg"
 
+## 20200226_add_time_prefix.py
+add time prefix to files. eg. 20200226_filename.ext
+
