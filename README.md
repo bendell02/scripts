@@ -16,3 +16,8 @@ rename files in a format "20180913_basename01.jpg"
 ## 20200226_add_time_prefix.py
 add time prefix to files. eg. 20200226_filename.ext
 
+## 20200226_extract_files_by_time_prefix.py
+extact files by time prefix. There are five modes : ONE_WEEK / TWO_WEEKS / ONE_MONTH / FIELS_30 / FIELS_30_RANDOMLY
+
+
+
